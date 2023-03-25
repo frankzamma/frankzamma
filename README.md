@@ -1,10 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-### I'm Francesco Giuseppe Zammarrelli, I Study Computer Science at University Of Salerno.💻:
-
-<a href="https://github.com/frankzamma">
-    <img src="https://github-stats-alpha.vercel.app/api?username=frankzamma&cc=000&tc=fff&ic=fff&bc=000">
-</a>
+## I'm Francesco Giuseppe Zammarrelli, I Study Computer Science at University Of Salerno💻
 
 - 🔭 I’m currently working on Artificial Intelligence.
 - 🌱 I’m currently learning Python.
