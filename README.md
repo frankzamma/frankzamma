@@ -1,7 +1,5 @@
-# Hi there 👋
-
-# I'm Francesco Giuseppe Zammarrelli, I Study Computer Science at University Of Salerno💻
-
+# Hi there 👋 I'm Francesco Giuseppe Zammarrelli.
+- 💻 I’m studying Computer Science at University Of Salerno.
 - 🔭 I’m currently working on Artificial Intelligence.
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: zammarrelli.francesco20@gmail.com
