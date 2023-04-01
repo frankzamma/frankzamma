@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: zammarrelli.francesco20@gmail.com
 
-Other stats:
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frankzamma&theme=dracula&count_private=true&inlcude_all_commits=true) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=frankzamma&theme=dracula&count_private=true&include_all_commits=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=frankzamma&langs_count=10&count_private=true&show_icons=true&theme=dracula&layout=compact&include_all_commits=true")
