@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Francesco Giuseppe Zammarrelli.
-- 💻 I’m studying CyberSecurity at University Of Salerno.
+- 💻 I’m a PhD Student in Computer Science at University Of Salerno.
 - 🔭 I’m currently working on Artificial Intelligence Attacks.
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: zammarrelli.francesco20@gmail.com
